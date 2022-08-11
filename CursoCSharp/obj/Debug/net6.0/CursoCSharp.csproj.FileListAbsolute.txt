@@ -1,0 +1,15 @@
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/bin/Debug/net6.0/CursoCSharp
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.deps.json
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.runtimeconfig.json
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.dll
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/bin/Debug/net6.0/CursoCSharp.pdb
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.AssemblyReference.cache
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfoInputs.cache
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.AssemblyInfo.cs
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.dll
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/refint/CursoCSharp.dll
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.pdb
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/CursoCSharp.genruntimeconfig.cache
+/Users/hellenrios/Projects/CursoCSharp/CursoCSharp/obj/Debug/net6.0/ref/CursoCSharp.dll
